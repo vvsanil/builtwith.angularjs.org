@@ -1609,6 +1609,20 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "tesla.im - Instant Messaging for Teams",
+      "thumb": "tesla-im/thumb.png",
+      "desc": "Free Instant Messaging for Teams. Highly Available. Highly Scalable.",
+      "url": "https://www.tesla.im",
+      "info": "http://teslachat.tumblr.com",
+      "submitter": "vvsanil",
+      "submissionDate": "2013-08-12",
+      "tags": [
+           "Instant Messaging for Teams",
+           "Real Time Messaging for Teams",
+           "Node.JS Group chat"
+      ]
     }
   ]
 }
